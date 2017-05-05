@@ -3,6 +3,8 @@ title: 'Sunshine in the Hills'
 date: 07/11/2016
 author: 'Tasha Maxwell'
 taxonomy:
+    category:
+        - blog
     tag:
         - journal
         - photography

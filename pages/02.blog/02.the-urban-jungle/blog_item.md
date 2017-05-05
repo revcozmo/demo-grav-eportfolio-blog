@@ -2,6 +2,8 @@
 title: 'The Urban Jungle'
 date: '17:34 07/04/2016'
 taxonomy:
+    category:
+        - blog
     tag:
         - travel
         - photography

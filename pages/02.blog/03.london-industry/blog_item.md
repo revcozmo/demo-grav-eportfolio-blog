@@ -2,6 +2,8 @@
 title: 'London Industry at Night'
 date: '13:34 06/07/2016'
 taxonomy:
+    category:
+        - blog
     tag:
         - travel
         - photography
