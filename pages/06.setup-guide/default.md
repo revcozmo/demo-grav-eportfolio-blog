@@ -1,5 +1,5 @@
 ---
-title: 'Setup Guide'
+title: 'ePortfolio Blog Setup Guide'
 ---
 
 ## It's as easy as 1-2-3 to get your ePortfolio Blog up and running!
